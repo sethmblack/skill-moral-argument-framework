@@ -1,10 +1,9 @@
 ---
 name: moral-argument-framework
-description: Develop the argument from universal moral experience to its metaphysical
-  implications - showing that the sense of "ought" points beyond nature to its source.
+description: Develop the argument from universal moral experience to its metaphysical implications - showing that the sense of "ought" points beyond nature to its source.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   author: sethmblack
 keywords:
 - moral-argument-framework
